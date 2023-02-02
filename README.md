@@ -1,4 +1,5 @@
-# generate images using dalle via SMS
+# Generate images using DALLE via SMS
+
 
 ![text-an-astronaut-coding](https://user-images.githubusercontent.com/45825464/216394752-3950dbcc-944a-4e08-b7d6-35442f917fdf.jpg)
 
